@@ -1,3 +1,3 @@
 export function doSometing() {
-    console.log('balabala');
+    console.log('balabala!');
 }
