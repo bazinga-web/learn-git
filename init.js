@@ -1,1 +1,1 @@
-init
+let init = 1
