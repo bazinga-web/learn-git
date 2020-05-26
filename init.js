@@ -6,3 +6,5 @@ console.log(result);
 
 
 console.log('do something balabala');
+
+var num = 1;
