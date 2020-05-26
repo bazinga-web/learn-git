@@ -6,3 +6,5 @@ console.log(result);
 
 
 console.log('do something balabala');
+
+console.log('test git commit --amend');
