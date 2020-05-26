@@ -5,3 +5,7 @@ export function doSometing() {
 export function test() {
     console.log('test')
 }
+
+export function demo() {
+    console.log('demo')
+}
