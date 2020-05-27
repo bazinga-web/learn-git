@@ -9,3 +9,5 @@ export function test() {
 export function demo() {
     console.log('demo')
 }
+
+console.log('change from github');
