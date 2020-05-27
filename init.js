@@ -18,3 +18,5 @@ console.log('test git pull rebase');
 
 
 console.log('test git pull and git push');
+
+console.log('test git pull --rebase');
