@@ -17,3 +17,7 @@ export function change1() {
 export function change2() {
     console.log('change2');
 }
+
+export function change3() {
+    console.log('change3');
+}
