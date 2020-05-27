@@ -12,3 +12,5 @@ console.log('test git commit --amend');
 console.log('check local file commit id change?')
 
 console.log('change4')
+
+console.log('edit from github')
