@@ -14,3 +14,4 @@ console.log('check local file commit id change?')
 console.log('change4')
 
 console.log('edit from github')
+console.log('test git pull rebase');
