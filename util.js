@@ -9,3 +9,7 @@ export function test() {
 export function demo() {
     console.log('demo')
 }
+
+export function change1() {
+    console.log('change1');
+}
