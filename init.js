@@ -12,3 +12,7 @@ console.log('test git commit --amend');
 console.log('check local file commit id change?')
 
 console.log('change4')
+
+console.log('change5')
+
+console.log('change6')
